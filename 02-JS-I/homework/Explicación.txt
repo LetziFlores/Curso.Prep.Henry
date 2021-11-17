@@ -1,0 +1,5 @@
+* Variables
+	* Strings: Es una variable que es utilizada para las letras
+	* Funciones (argumentos, `return`): Son como las apps que tenemos en nuestro teléfono, hacen actividades específicas para arrojar algún resultado.
+	* Declaraciones `if`: Nos permite hacer comparaciones para distintos fines 
+	* Valores booleanos (`true`, `false`): Nos ayudan a que los resultados que nos arrojen las comparaciones sean rápidos
