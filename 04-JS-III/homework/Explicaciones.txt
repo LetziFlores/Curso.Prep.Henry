@@ -1,0 +1,2 @@
+Array: Es una caja que nos permitira guerdar diferentes cosas en un lugar y despúes acceder a ellas.
+
