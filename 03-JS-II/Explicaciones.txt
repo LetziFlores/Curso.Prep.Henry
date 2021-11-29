@@ -1,0 +1,4 @@
+for : nos permitira hacer alguna cosa hasta que se lo indiquemos con una orden
+&& : Son las condiciones que se deben cumplir si o si
+|| : Son las condciones que podrían cumplirse
+!: Es lo opuesto a lo que quieres 
